@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author":"Bouzeko Zangue Adrien",
+	"description": "a project that does something Awasome",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
